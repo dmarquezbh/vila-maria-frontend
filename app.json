@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "First By Dmarques",
+    "icon": "./app.png",
+    "version": "1.0.0",
+    "slug": "first-dmarques",
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "com.dmarquezbh.first"
+    },
+    "android": {
+      "package": "com.dmarquezbh.first"
+    }
+   }
+}
